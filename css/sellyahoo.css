@@ -1,0 +1,32 @@
+body{
+    padding-top: 20px;
+}
+html{
+    height: 100%;
+}
+
+.nav-justified{
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+.nav-justified>li>a{
+    padding: 15px;
+    text-align: center;
+    background-color:#e5e5e5;
+    
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn{
+    padding: 20px 25px;
+    font-size: 3rem;
+}
+
+.row > .col-lg-4  > .btn{
+    text-align: center;
+}
